@@ -36,7 +36,7 @@ Que el personal de vectores desarrolle las competencias específicas para realiz
 
 ### Actividad 2
 
-1.  Bajar la carpeta [hotspots_cases](https://github.com/fdzul/hotspots_cases) de GitHub.
+1.  Bajar la carpeta [Focos de Transmisión Activa de las arbovirosis](https://github.com/fdzul/focos_transmision_activa_dengue_2025_guanajuato) de GitHub.
 
 2.  Realizar el análisis de los focos de transmisión activa en la o las localidades prioritarias del estado.
 
@@ -46,7 +46,7 @@ Que el personal de vectores desarrolle las competencias específicas para realiz
 
 ### Objetivo.
 
-Que el personal de vectores desarrolle las competencias específicas para realizar realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.
+Que el personal de vectores desarrolle las competencias específicas para realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.
 
 ### Actividad 2
 
