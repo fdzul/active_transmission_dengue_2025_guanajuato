@@ -9,17 +9,15 @@ El curso títulado **Identificación de los Focos de Transmisión Activa de las 
 
 # **Objetivos Específicos**
 
-1.  Identificar los hotspots de la transmisión de las arbovirosis en las localidades urbanas endémicas de México.
+1.  Identificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.
 
-2.  Identificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.
+2.  Identificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.
 
-3.  Identificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.
+3.  Implementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.
 
-4.  Implementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.
+4.  Generar los mapas de calor en las localidades urbanas endémicas de México.
 
-5.  Generar los mapas de calor en las localidades urbanas endémicas de México.
-
-6.  Desarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
+5.  Desarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
 
 # Audiencia
 
