@@ -46,15 +46,17 @@ tibble::tibble(Temas = c("Bases del SINAVE",
                          "Mapas de Calor",
                          "Modelo Log-Gaussian Cox Processed"),
                Instructor = c("Felipe Antonio Dzul Manzanilla")) |>
-    reactable::reactable(defaultPageSize = 10,
+    reactable::reactable(defaultPageSize = 5,
                          theme = reactablefmtr::flatly(),
                          filterable = FALSE,
                          striped = TRUE,
-                         minRows = 10,
+                         minRows = 5,
                          resizable = TRUE, 
                          wrap = FALSE, 
                          bordered = TRUE)
 ```
+
+- [Geocoding API Key](https://fancy-arithmetic-194be1.netlify.app/talks/api_key_google/#/title-slide)
 
 
 ### Módulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México
