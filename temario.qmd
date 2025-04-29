@@ -34,6 +34,8 @@ tibble::tibble(Tema = c("Instalar R",
 
 -   [Instalación de Paquetes](https://calm-hummingbird-41cb33.netlify.app/talks/pkg_installation/#/)
 
+-   [dengueverse](https://calm-hummingbird-41cb33.netlify.app/talks/dengueverse/#/dengueverse)
+
 -   [Datos Espaciales](https://calm-hummingbird-41cb33.netlify.app/talks/spatial_data/#/)
 
 
