@@ -39,7 +39,7 @@ tibble::tibble(Tema = c("Instalar R",
 -   [Datos Espaciales](https://calm-hummingbird-41cb33.netlify.app/talks/spatial_data/#/)
 
 
-### Módulo II. Focos de la Transmisión Activa de las Arbovirosis.
+### Módulo V. Focos de la Transmisión Activa de las Arbovirosis.
 
 ```{r temario_modulo_II, echo=FALSE}
 tibble::tibble(Temas = c("Bases del SINAVE",
